@@ -49,3 +49,10 @@ The project involves the creation of several relational tables to manage differe
 9. **Orders Table**
    - **Attributes:** DocID (Foreign Key), BloodID (Foreign Key), Amount, OrderDate.
    - **Relationships:** Manages blood requests by doctors from the blood bank.
+
+## Contributors ✍️
+
+- Sana Shamma
+- Salwa Shamma
+- Samah Shamma
+- Shatha Faraj
