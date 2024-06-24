@@ -1,7 +1,7 @@
 # Blood and Organs Donation System Project 🩸🫀
 
 ### Project Overview ✨
-The Blood and Organs Donation System is a database project aimed at creating an efficient system for managing blood and organ donations. This system ensures effective tracking and allocation of donations to patients in need.
+The Blood and Organ Donation System is an Oracle Database project aimed to creat an efficient system for managing blood and organ donations. This system ensures effective tracking and allocation of donations to patients in need.
 
 ### Objectives 🎯
 The system is designed to:
